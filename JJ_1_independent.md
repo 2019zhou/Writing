@@ -4,7 +4,7 @@ As the leader of a city, what would you do to ensure the prosperity and success 
 
 
 # My writing
-I really appreciate what the pre leader did in his last 4 years of administration. Maggie (the city's name) is now developing fast and with yet an even better tendency to become the most prosperous city in the country. I absolutely feel the responsibility and pressure to ensure the success and prosperity of Maggie. We plan to do the 
+I really appreciate what the last leader did in his last 4 years of administration. Maggie (the city's name) is now developing fast and with yet an even better tendency to become the most prosperous city in the country. I absolutely feel the responsibility and pressure to ensure the success and prosperity of Maggie. We plan to do the 
 following things to better improve the city.
 
 First, Rules and laws will be more strictly implemented to ensure the security, equality and order of the city. There are some areas in the city that violence occasionally occurs. We will strengthen the regulations there to improve the tough situation. An even more intelligent system will be put into use to watch real-time situation on the streets, and allocate the police wisely to where they are needed. This system will assist the police in preventing the violence just in time. At the same time, the automation of watch street situations will prove to cut the government cost as well for fewer people are needed to do this watching job.
@@ -20,4 +20,8 @@ The above are the brief introduction of the plans I will advocate doing during m
 - Responsibility
 - Regulation
 - Order the order of the city
+
+# paperrater suggestion
+- use many inappropriate words
+
 
