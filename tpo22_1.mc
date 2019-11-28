@@ -1,0 +1,14 @@
+# tpo 22 intergrated writing
+ethanol replacing gaosline 
+1. global warming issue
+2. affect to its original use
+3. cost
+# My writing
+The reading part questions about the feasibility of ethanol replacing gasoline as terms of fuel for three major reasons. However, the professor refutes the idea and justifies the reasons for ethanol being a good alternative.
+First, it is true that ethanol releases much carbon dioxide into the atmosphere as the gasoline, however, the professor argues that the process that plants grow releasing the carbon dioxide counteracts the carbon dioxide it will make. Because most of the ethanol that is used for fuel are made from plants like corn. And every plant grows with absorbing adequate amount of carbon dioxide from the atmosphere. And the absorption at that time is possible to counteract with effect when it is burning for fuel.
+Second, there will be no reduce of plants for animals eating. The ethanol that is needed for producing the fuel are mainly converted from a kind of part called cellulose. And cellulose mostly exists in the parts of plants that animals uneaten. Therefore, it is possible to get a win-win situation that animals get plenty to eat while there are ample plants providing for fuel.
+Thirdly, the professor points out that there is a promising future for the ethanol that we will see cheaper ethanol in the market place. Though presently the government spend a large sum of money for the ethanol subsidy. It will not be normalized. Because when more and more people buy the ethanol, the companies will increase the production of the ethanol.And with more production, the price of the ethanol will be significantly reduced. The professor also give the example that it is estimated that if the production of the ethanol is three times by now, the price of it will be 40% lower.
+So, according to the listening part, ethanol will be a good replacement for the gasoline. And it will certainly be more environmentally-friendly, little influence for its other original purposes and has an economic edge in the future.
+## someproblems to attention 
+1. 单复数，时态很不注意
+2. Adequate, cheap, reasonability 没有这有这个单词
