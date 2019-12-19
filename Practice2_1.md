@@ -1,4 +1,4 @@
-#Independent Writing title
+# Independent Writing title
 Some people always follow their dreams even if the dreams are ambitious. Some think we should focus on achieving realistic goals. Which do you agree with? Why?
 
 # My writing
