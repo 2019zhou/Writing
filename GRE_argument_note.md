@@ -36,7 +36,7 @@ A typical response in this category:
 - conveys ideas clearly and well, using appropriate vocabulary and sentence variety
 - demonstrates facility with the conventions of standard written English, but may have minor errors
 
-###　Score 4 Adequate
+### Score 4 Adequate
 
 In addressing the specific task directions, a 4 response presents a competent examination of the argument and conveys meaning with acceptable clarity.
 
